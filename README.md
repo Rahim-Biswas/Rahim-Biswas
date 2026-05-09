@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-rahimbiswas.in-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rahimbiswas.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahim--biswas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahim-biswas)
 [![YouTube](https://img.shields.io/badge/YouTube-@spatiaa-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@spatiaa)
-[![Research Site](https://img.shields.io/badge/Research-Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/rahimbiswas)
+<!-- [![Research Site](https://img.shields.io/badge/Research-Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/rahimbiswas) -->
 
 </div>
 
