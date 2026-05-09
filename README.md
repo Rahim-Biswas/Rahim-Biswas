@@ -1,114 +1,200 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4f6e,100:2ea44f&height=200&section=header&text=Rahim%20Biswas&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=GeoAI%20Developer%20%7C%20Spatial%20Data%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Building+at+the+intersection+of+GIS+%26+AI;Turning+spatial+data+into+real-world+solutions;Open+to+collaborate+on+GeoAI+projects" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4f6e,100:2ea44f&height=180&section=header&text=Rahim%20Biswas&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=GeoAI%20Engineer%20|%20Geospatial%20AI%20and%20Remote%20Sensing&descAlignY=62&descSize=18" width="100%" />
 
 <br/>
 
-<!-- Social badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-rahimbiswas.in-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rahimbiswas.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahim--biswas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahim-biswas)
 [![YouTube](https://img.shields.io/badge/YouTube-@spatiaa-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@spatiaa)
-[![Google Sites](https://img.shields.io/badge/Research_Site-Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/rahimbiswas)
+[![Research Site](https://img.shields.io/badge/Research-Google%20Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/rahimbiswas)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# About Me
 
-I'm a **GeoAI Developer** from India, passionate about combining **Geospatial Technology** and **Artificial Intelligence** to solve real-world problems. I love building tools that make spatial data more accessible, meaningful, and actionable.
+GeoAI Engineer with experience in geospatial AI, remote sensing, and deep learning-based spatial analysis. I work on building AI-powered geospatial systems using satellite imagery, GIS workflows, and backend deployment technologies.
 
-- 🌍 &nbsp; Specializing in **GIS, Remote Sensing, and GeoAI**
-- 🤖 &nbsp; Building **AI-powered spatial applications** and desktop tools
-- 🛰️ &nbsp; Working with **YOLO, satellite imagery, and geospatial pipelines**
-- 📡 &nbsp; Exploring **complaint systems, annotation tools**, and spatial analytics
-- 🌱 &nbsp; Always learning at the crossroads of geography and machine learning
-- 💬 &nbsp; Ask me about **GeoAI, spatial data, Python GIS tools**
-- 📫 &nbsp; Reach me at **[www.rahimbiswas.in](https://www.rahimbiswas.in)**
+Currently working at **WhereSoft Technologies Pvt Ltd** on object detection, segmentation, and spatial AI pipelines using high-resolution aerial and satellite imagery.
+
+My work includes:
+
+- Deep learning model training and deployment for geospatial applications
+- Object detection and segmentation using satellite imagery
+- FastAPI backend integration for AI model serving
+- GIS workflow automation using Python and ArcPy
+- Spatial analytics using ArcGIS Pro, QGIS, PostGIS, and GDAL
+- AI-assisted GIS systems using LLMs and vector databases
+
+I am particularly interested in GeoAI infrastructure, spatial intelligence systems, remote sensing automation, and AI-powered GIS workflows.
 
 ---
 
-## 🛠️ Tech Stack
+# Experience
 
-**Languages & Core**
+## Geo AI Engineer — WhereSoft Technologies Pvt Ltd
+**July 2025 – Present**
+
+- Training and deploying deep learning models for geospatial applications
+- Working on object detection and segmentation using aerial and satellite imagery
+- Building FastAPI backend services for AI model deployment
+- Automating GIS workflows using ArcPy, GDAL, Rasterio, and Python
+- Developing AI-assisted GIS systems using LLMs, embeddings, and vector databases
+- Preparing technical documentation for GeoAI tools and workflows
+
+---
+
+## Junior Data Analyst — Garudalytics Pvt Ltd
+**March 2024 – June 2025**
+
+- Developed GeoAI tools for flood analysis, wildfire assessment, and crop yield prediction
+- Worked on offline deployment of object detection systems for defense projects
+- Trained deep learning models for satellite imagery analysis
+- Built custom GIS tools using PyQt5, QGIS, and Django
+- Developed georeferencing and mosaicking tools for GIS workflows
+- Developed a QGIS plugin for least-cost route analysis
+
+---
+
+# Focus Areas
+
+- GeoAI
+- Remote Sensing
+- Computer Vision for Satellite Imagery
+- Spatial Machine Learning
+- GIS Automation
+- Object Detection and Segmentation
+- Spatial Analytics
+- Geospatial Backend Systems
+- AI-assisted GIS Applications
+
+---
+
+# Tech Stack
+
+## Programming & Core
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**GeoSpatial & AI**
+---
 
+## Geospatial & AI
+
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![GDAL](https://img.shields.io/badge/GDAL-5C8D2E?style=for-the-badge&logo=osgeo&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-444444?style=for-the-badge)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-6DB33F?style=for-the-badge)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
-**Frameworks & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Backend & Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+
+---
+
+# Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🏷️ **LabelSense**](https://github.com/Rahim-Biswas/LabelSense) | Desktop application for image annotation — designed for creating YOLO training datasets quickly and intuitively | `Python` `OpenCV` `YOLO` |
-| [🗺️ **GeoAI Complaint System**](https://github.com/Rahim-Biswas/geoai-complaint-system) | Full-stack geospatial complaint management system with AI-assisted spatial analysis and backend-frontend integration | `Python` `FastAPI` `GeoAI` |
+| [LabelSense](https://github.com/Rahim-Biswas/LabelSense) | Desktop annotation platform for creating object detection datasets for computer vision and GeoAI workflows | `Python` `OpenCV` `YOLO` |
+| [GeoAI Complaint System](https://github.com/Rahim-Biswas/geoai-complaint-system) | Full-stack geospatial complaint management platform with AI-assisted spatial analysis and interactive GIS workflows | `FastAPI` `GeoAI` `PostGIS` |
+| [Disha QGIS Plugin](#) | QGIS plugin for least-cost route analysis and strategic path optimization | `QGIS` `Python` |
+| [Georeferencing Tool](#) | Custom PyQt5-based georeferencing and mosaicking application for GIS workflows | `PyQt5` `GDAL` |
 
 </div>
 
-> 💡 *More projects on my [portfolio site](https://www.rahimbiswas.in) and [Google Sites](https://sites.google.com/view/rahimbiswas)*
+---
+
+# Research & Academic Work
+
+## Landslide Susceptibility Mapping and Risk Assessment
+Machine learning-based landslide susceptibility analysis using Random Forest and SVM algorithms.
+
+**Tech:** ArcGIS Pro, Google Earth Engine, Machine Learning
 
 ---
 
-## 📊 GitHub Stats
+## Urban Microclimate Modelling
+Facade greening analysis and urban thermal comfort assessment using ENVI-Met.
+
+**Tech:** ENVI-Met, ArcGIS Pro
+
+---
+
+# Achievements
+
+- Winner — Geo Innovation Challenge for Sustainable Nation 2024
+- Outstanding Intern Award from NRSC (ISRO)
+- IIT Tirupati Chanakya Postgraduate Fellow
+- Finalist — ESRI India Young Scholar Program
+
+---
+
+# Certifications
+
+- ESRI MOOC — Spatial Data Science: The New Frontier in Analytics
+- Career Essentials in Generative AI by Microsoft and LinkedIn
+- Satellite Data for Air Quality Environmental Justice and Equity Applications
+- Crop Mapping using SAR and Optical Remote Sensing
+
+---
+
+# GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahim-Biswas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Biswas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rahim-Biswas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Biswas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Biswas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahim-Biswas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f"/>
 
 </div>
 
 ---
 
-## 📺 Latest YouTube Videos
+# Content & Community
 
-<!-- YOUTUBE-CARDS:START — update manually or use a GitHub Action -->
-> 🎬 Check out my channel **[@spatiaa](https://youtube.com/@spatiaa)** for GeoAI tutorials, spatial data walkthroughs, and project deep-dives.
-<!-- YOUTUBE-CARDS:END -->
+I share GeoAI tutorials, remote sensing workflows, GIS development content, and geospatial AI experiments on YouTube.
+
+- YouTube: https://youtube.com/@spatiaa
+- Portfolio: https://www.rahimbiswas.in
 
 ---
 
-## 🤝 Let's Connect
+# Connect
 
 <div align="center">
 
-I'm open to **collaborations, freelance GeoAI projects**, and interesting conversations about spatial technology.
+[![Website](https://img.shields.io/badge/Website-rahimbiswas.in-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rahimbiswas.in)
 
-[![Email](https://img.shields.io/badge/Visit_my_site-rahimbiswas.in-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rahimbiswas.in)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahim-biswas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahim--biswas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahim-biswas)
+
+[![YouTube](https://img.shields.io/badge/YouTube-@spatiaa-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@spatiaa)
 
 </div>
 
@@ -118,8 +204,6 @@ I'm open to **collaborations, freelance GeoAI projects**, and interesting conver
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,50:1a4f6e,100:0d1117&height=120&section=footer" width="100%"/>
 
-*"A Spatial Repository for Spatial People 🌍"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rahim-Biswas&color=2ea44f&style=flat-square&label=Profile+Views)
+Building AI-powered geospatial systems and spatial intelligence solutions.
 
 </div>
