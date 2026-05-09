@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4f6e,100:2ea44f&height=200&section=header&text=Rahim%20Biswas&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Geo%20AI%20Engineer%20%7C%20GIS%20%26%20Deep%20Learning%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a4f6e,100:2ea44f&amp;height=200&amp;section=header&amp;text=Rahim%20Biswas&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Geo%20AI%20Engineer%20%7C%20GIS%20%26%20Deep%20Learning%20Specialist&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=700&lines=Geo+AI+Engineer+at+WhereSoft+Technologies;Deep+Learning+for+Satellite+and+Aerial+Imagery;GIS+Automation+with+Python+and+ArcPy;IIT+Tirupati+Chanakya+Postgraduate+Fellow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1000&amp;color=2EA44F&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Geo+AI+Engineer+at+WhereSoft+Technologies;Deep+Learning+for+Satellite+and+Aerial+Imagery;GIS+Automation+with+Python+and+ArcPy;IIT+Tirupati+Chanakya+Postgraduate+Fellow" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -144,13 +144,13 @@ I hold an M.Sc in Geoinformatics from Bharati Vidyapeeth Institute, Pune (CGPA 8
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahim-Biswas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rahim-Biswas&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=2ea44f&amp;icon_color=2ea44f&amp;text_color=c9d1d9" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Biswas&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea44f&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Biswas&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=2ea44f&amp;text_color=c9d1d9" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Rahim-Biswas&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f" />
+<img src="https://streak-stats.demolab.com/?user=Rahim-Biswas&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=2ea44f&amp;fire=2ea44f&amp;currStreakLabel=2ea44f" />
 
 </div>
 
@@ -158,7 +158,7 @@ I hold an M.Sc in Geoinformatics from Bharati Vidyapeeth Institute, Pune (CGPA 8
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,50:1a4f6e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2ea44f,50:1a4f6e,100:0d1117&amp;height=120&amp;section=footer" width="100%"/>
 
 A Spatial Repository for Spatial People
 
