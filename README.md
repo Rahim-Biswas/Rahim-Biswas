@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4f6e,100:2ea44f&height=180&section=header&text=Rahim%20Biswas&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=GeoAI%20Engineer%20|%20Spatial%20AI%20Data%20Science%20&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4f6e,100:2ea44f&height=180&section=header&text=Rahim%20Biswas&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=GeoAI%20Engineer%20|%20Spatial%20%20Data%20Science%20&descAlignY=62&descSize=18" width="100%" />
 
 <br/>
 
