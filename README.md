@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a4f6e,100:2ea44f&amp;height=200&amp;section=header&amp;text=Rahim%20Biswas&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Geo%20AI%20Engineer%20%7C%20GIS%20%26%20Deep%20Learning%20Specialist&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%" />
+<img src="./header.svg" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1000&amp;color=2EA44F&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Geo+AI+Engineer+at+WhereSoft+Technologies;Deep+Learning+for+Satellite+and+Aerial+Imagery;GIS+Automation+with+Python+and+ArcPy;IIT+Tirupati+Chanakya+Postgraduate+Fellow" alt="Typing SVG" />
@@ -158,7 +158,7 @@ I hold an M.Sc in Geoinformatics from Bharati Vidyapeeth Institute, Pune (CGPA 8
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2ea44f,50:1a4f6e,100:0d1117&amp;height=120&amp;section=footer" width="100%"/>
+<img src="./footer.svg" width="100%" />
 
 A Spatial Repository for Spatial People
 
