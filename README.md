@@ -154,30 +154,6 @@ Facade greening analysis and urban thermal comfort assessment using ENVI-Met.
 
 ---
 
-# GitHub Stats
-
-<div align="center">
-
-<img 
-height="170em" 
-src="https://github-readme-stats.vercel.app/api?username=Rahim-Biswas&show_icons=true&theme=transparent&hide_border=true&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9&include_all_commits=true&count_private=true" 
-/>
-
-<img 
-height="170em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Biswas&layout=compact&theme=transparent&hide_border=true&title_color=2ea44f&text_color=c9d1d9" 
-/>
-
-<br><br>
-
-<img 
-src="https://streak-stats.demolab.com?user=Rahim-Biswas&theme=dark&hide_border=true&background=0D1117&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f" 
-/>
-
-</div>
-
----
-
 # Content & Community
 
 I share GeoAI tutorials, remote sensing workflows, GIS development content, and geospatial AI experiments on YouTube.
